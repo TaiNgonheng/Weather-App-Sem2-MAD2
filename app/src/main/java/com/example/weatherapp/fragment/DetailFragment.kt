@@ -24,6 +24,7 @@ import java.util.*
 import kotlin.math.roundToInt
 
 class DetailFragment : Fragment() {
+
     private lateinit var detailAdapter: DetailAdapter
     private lateinit var detailRecyclerView: RecyclerView
 
